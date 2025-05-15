@@ -216,7 +216,7 @@ BloxByte UI Library is designed to work with modern Roblox clients and supports 
 
 ## Credits
 
-Created by [Your Name/Username]
+Created by [kureo11 on discord]
 
 ## License
 
